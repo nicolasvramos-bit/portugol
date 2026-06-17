@@ -8,7 +8,7 @@ programa {
     se(idade >=16){
       escreva("Você pode entrar!")
     }
-    senao
+    senao//hi ffffffffffffffff
     {
       escreva("Você não pode entrar!")
     }
